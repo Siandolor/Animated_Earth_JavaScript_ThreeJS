@@ -1,7 +1,7 @@
 # Earth Simulation (Three.js)
 
 > “It’s not just rotation. It’s the rhythm of gravity, light, and silence.”  
-> — Daniel Fitz, 2025
+> — Daniel Fitz, 2024
 
 ---
 
