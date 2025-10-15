@@ -1,0 +1,47 @@
+<!-- ========================================================================== -->
+<!-- FILE: index.html                                                          -->
+<!-- ========================================================================== -->
+<!-- Entry point for the Earth Simulation project.                             -->
+<!-- Initializes document structure, styling, and links main Three.js module.  -->
+<!-- ========================================================================== -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- ---------------------------------------------------------------------- -->
+    <!-- META & PAGE CONFIGURATION                                              -->
+    <!-- ---------------------------------------------------------------------- -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <!-- ---------------------------------------------------------------------- -->
+    <!-- GLOBAL STYLES                                                         -->
+    <!-- ---------------------------------------------------------------------- -->
+    <style>
+      /* Remove default margins and ensure full-screen canvas display */
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+        background: black;
+      }
+
+      /* Canvas fills entire viewport and avoids scrollbars */
+      canvas {
+        display: block;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- ---------------------------------------------------------------------- -->
+    <!-- SCRIPT ENTRY POINT                                                     -->
+    <!-- ---------------------------------------------------------------------- -->
+    <!-- Loads the Three.js scene from main.js as an ES module.                 -->
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
