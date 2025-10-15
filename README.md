@@ -77,7 +77,7 @@ Then open [http://localhost:8080](http://localhost:8080) in your browser.
 ## Credits
 
 **Author:** Daniel Fitz  
-**Year:** 2025  
+**Year:** 2024  
 **Inspiration:** DronePilot project architecture and documentation style.
 
 ---
