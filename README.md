@@ -74,17 +74,20 @@ Then open [http://localhost:8080](http://localhost:8080) in your browser.
 
 ---
 
-## Credits
+## Author
+**Daniel Fitz, MBA, MSc, BSc**  
+Vienna, Austria  
+Developer & Security Technologist — *Post-Quantum Cryptography, Blockchain/Digital Ledger & Simulation*  
+C/C++ · C# · Java · Python · Visual Basic · ABAP · JavaScript/TypeScript
 
-**Author:** Daniel Fitz  
-**Year:** 2024  
-**Inspiration:** DronePilot project architecture and documentation style.
+International Accounting · Macroeconomics & International Relations · Physiotherapy · Computer Sciences  
+Former Officer of the German Federal Armed Forces
 
 ---
 
 ## License
-
-MIT License — free to use, modify, and distribute with attribution.
+**MIT License** — free for educational and research use.  
+Attribution required for redistribution or commercial adaptation.
 
 ---
 
