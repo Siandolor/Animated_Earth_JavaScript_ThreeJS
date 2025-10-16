@@ -43,8 +43,8 @@ It’s built as a modular and documented setup following the _DronePilot_ projec
 ### Clone the repository
 
 ```bash
-  git clone https://github.com/yourusername/earth-simulation.git
-  cd earth-simulation
+  git clone https://github.com/yourusername/Animated_Earth_JavaScript_ThreeJS.git
+  cd Animated_Earth_JavaScript_ThreeJS
 ```
 
 ### Install dependencies
